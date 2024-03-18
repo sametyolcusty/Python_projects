@@ -5,17 +5,9 @@ I am trying to produce various projects such as data analysis projects and subje
 
 You can also find all my projects in my website.
 
-## Website
+## Links
 
-Visit my website: {website}
-
-## Social Media
-
-my_website = "https://www.sametyolcu.com/portfolio"
-my_social_media = {
-    'twitter': 'https://twitter.com/sametylcu',
-    'linkedin': 'https://www.linkedin.com/in/samet-yolcu',
-    'stackoverflow': 'https://stackoverflow.com/users/23614045/samet-yolcu'
-}
-
-
+, visit my website (https://twitter.com/sametylcu).
+, visit my website (https://www.sametyolcu.com/portfolio).
+ct, visit my website (https://www.linkedin.com/in/samet-yolcu).
+ visit my website (https://stackoverflow.com/users/23614045/samet-yolcu).
