@@ -7,7 +7,7 @@ You can also find all my projects in my website.
 
 ## Links
 
-, visit my website (https://twitter.com/sametylcu)./n
-, visit my website (https://www.sametyolcu.com/portfolio)./n
-ct, visit my website (https://www.linkedin.com/in/samet-yolcu)./n
- visit my website (https://stackoverflow.com/users/23614045/samet-yolcu).
+X = (https://twitter.com/sametylcu)/n
+Web Site = (https://www.sametyolcu.com/portfolio)/n
+Linkedin = (https://www.linkedin.com/in/samet-yolcu)/n
+Stack Overflow = (https://stackoverflow.com/users/23614045/samet-yolcu).
