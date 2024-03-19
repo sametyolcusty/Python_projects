@@ -26,15 +26,16 @@ This File Organizer project is aimed at automating the process of organizing fil
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/file-organizer.git
+   ```bash
+   git clone https://github.com/your-username/file-organizer-project.git
 
 2. Navigate to the project directory:
 
-cd file-organizer
+   cd file-organizer
 
 3. Run the Python script with the target directory path:
 
-python organize_files.py /path/to/your/target/directory
+   python organize_files.py /path/to/your/target/directory
 
 !!! do not forget write your folder name instead of target directory
 
@@ -47,7 +48,9 @@ For more information about the project, visit my website (https://www.sametyolcu
 
 It's important to use raw string when specifying file paths in this project. Raw string allows you to use the escape character (\) in file paths without interpreting it as a special character in Python. By using raw string, you can specify file paths in a safer and more understandable way.
 
+
 video for how to write 'r' (https://www.loom.com/share/8e7710cb046c402fa14e4280c1ad35b6?sid=d2ea18d5-298c-4632-9286-50039d9f46e0).
+
 
 ![Resim Açıklaması](raw_string().png)
 
