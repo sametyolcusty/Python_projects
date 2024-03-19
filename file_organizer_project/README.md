@@ -51,7 +51,7 @@ It's important to use raw string when specifying file paths in this project. Raw
 
 Example usage:
 ```python
-target_directory = r"C:\Users\MONSTER YOLCU GROUP\Desktop\folder_to_edit"
+target_directory = r"C:\Users\MONSTER SAMET\Desktop\folder_to_edit"
 
 
 
