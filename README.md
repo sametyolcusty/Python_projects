@@ -1,4 +1,4 @@
-# Weelcome to my Python projects
+# Welcome to my Python projects
 
 I am trying to produce various projects such as data analysis projects and subject comprehension projects using the Python language. 
 
