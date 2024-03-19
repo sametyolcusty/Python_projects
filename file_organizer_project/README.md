@@ -31,11 +31,11 @@ This File Organizer project is aimed at automating the process of organizing fil
 
 2. Navigate to the project directory:
 
-cd file-organizer
+   cd file-organizer
 
 3. Run the Python script with the target directory path:
 
-python organize_files.py /path/to/your/target/directory
+   python organize_files.py /path/to/your/target/directory
 
 !!! do not forget write your folder name instead of target directory
 
