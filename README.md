@@ -1,33 +1,23 @@
-
-# Welcome to my python projects
+# Welcome to my Python projects
 
 I am trying to produce various projects such as data analysis projects and subject comprehension projects using the Python language. 
 
 You can also find all my projects in my website.
 
+## Usage
+
+To use this projects Python 3.x
+
 ## Website
 
-Visit my website: {website}
+Visit my website: [sametyolcu.com/portfolio](https://www.sametyolcu.com/portfolio)
 
 ## Social Media
 
-Follow me on:
-- Twitter: {social_media['twitter']}
-- LinkedIn: {social_media['linkedin']}
-- StackOverflow: {social_media['stackoverflow']}
-"""
-
-    with open('README.md', 'w') as readme_file:
-        readme_file.write(readme_content)
+- [Twitter](https://twitter.com/sametylcu)
+- [LinkedIn](https://www.linkedin.com/in/samet-yolcu)
+- [Stack Overflow](https://stackoverflow.com/users/23614045/samet-yolcu)
 
 
-my_website = "https://www.sametyolcu.com/portfolio"
-my_social_media = {
-    'twitter': 'https://twitter.com/sametylcu',
-    'linkedin': 'https://www.linkedin.com/in/samet-yolcu',
-    'stackoverflow': 'https://stackoverflow.com/users/23614045/samet-yolcu'
-}
-
-create_readme(my_website, my_social_media)
 
 
