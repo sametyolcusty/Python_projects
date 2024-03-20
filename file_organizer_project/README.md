@@ -42,7 +42,7 @@ This File Organizer project is aimed at automating the process of organizing fil
 
 ## Website
 
-For more information about the project, visit my website (https://www.sametyolcu.com/portfolio).
+For more information about the project, visit my website (https://sametyolcu.com/file-organiser-project).
 
 ### Using Raw String for File Paths
 
