@@ -7,7 +7,7 @@ This project is a simple Python script that fetches Bitcoin prices from the Coin
 
 In this project, I tried to make it useful by pulling data from a website I determined.
 
-![Resim Açıklaması](pictures3.png)
+![Resim Açıklaması](picture3.png)
 
 ## How to Run
 
