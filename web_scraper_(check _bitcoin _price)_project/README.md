@@ -52,6 +52,6 @@ Create a new Pull Request
 
 ## Website
 
-For more information about the project, visit my website (https://www.sametyolcu.com/portfolio).
+For more information about the project, visit my website (https://sametyolcu.com/web-scraper-check-bitcoin-price-project).
 
 Find Your User-Agent: (https://httpbin.org/get).
