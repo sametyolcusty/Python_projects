@@ -13,8 +13,8 @@
 
 ## Analytics questions:
 
- -What factors (features) affect test scores most?
- -Are there interacting features which affect test scores?
+    -What factors (features) affect test scores most?
+    -Are there interacting features which affect test scores?
 
 ![Resim Açıklaması](read..png)
 
@@ -22,7 +22,7 @@
 
 You can access the data set here (https://www.kaggle.com/datasets/desalegngeb/students-exam-scores).
 
-You can also find the csv file in the project file.
+    You can also find the csv file in the project file.
 
 ![Resim Açıklaması](ethnic..png)
 
