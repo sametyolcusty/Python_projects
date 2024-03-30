@@ -3,18 +3,18 @@
 
  As a result of the scores given in this project and other factors, does the marital status of the parents affect the exam scores of their children? Does the education level of the parents affect the exam scores of their children? We will analyze our project through questions such as. We will visually improve our analysis with various graphs such as pie charts, column charts and box charts. We will examine where outliers occur. We will make a fast and effective analysis by making groupings.
 
-![Resim Açıklaması](dr.pngpng)
+![Resim Açıklaması](dr.png)
 
 ## The goal of the project
 
  The topic we will examine in this data set is the factors affecting students' exam scores.
 
-![Resim Açıklaması](gender_dis..png.png)
+![Resim Açıklaması](gender_dis..png)
 
 ## Analytics questions:
 
- -What factors (features) affect test scores most?
- -Are there interacting features which affect test scores?
+    -What factors (features) affect test scores most?
+    -Are there interacting features which affect test scores?
 
 ![Resim Açıklaması](read..png)
 
@@ -22,9 +22,9 @@
 
 You can access the data set here (https://www.kaggle.com/datasets/desalegngeb/students-exam-scores).
 
-You can also find the csv file in the project file.
+    You can also find the csv file in the project file.
 
-![Resim Açıklaması](ethnic..png.png)
+![Resim Açıklaması](ethnic..png)
 
 ## Data Dictionary (column description)
 
