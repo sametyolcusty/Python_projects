@@ -45,10 +45,10 @@ You can also find the csv file in the project file.
 
 ## Libraries
 
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+    numpy 
+    pandas 
+    matplotlib
+    seaborn 
 
 ## Usage
 
